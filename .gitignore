@@ -1,0 +1,4 @@
+dsanet_logs
+*.onnx
+*.csv
+.idea
